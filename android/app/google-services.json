@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814452043695",
+    "firebase_url": "https://let-s-go-b287f.firebaseio.com",
+    "project_id": "let-s-go-b287f",
+    "storage_bucket": "let-s-go-b287f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814452043695:android:afe7d2cf4a031c3a40c95a",
+        "android_client_info": {
+          "package_name": "com.example.letsgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814452043695-s4enh0i0epk7u50ed292b47onrsh4b91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letsgo",
+            "certificate_hash": "ca39787345d94ec04da748642997dc8d7a2f4973"
+          }
+        },
+        {
+          "client_id": "814452043695-v2giklahi5he87frkhec2han56ojd99u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mc72KDZRIPuBTnINdYwwLQG4un9j5Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814452043695-v2giklahi5he87frkhec2han56ojd99u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
