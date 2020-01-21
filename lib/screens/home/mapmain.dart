@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:letsgo/screens/home/homepage.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(MyAppM());
 
-class MyApp extends StatelessWidget {
+class MyAppM extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
