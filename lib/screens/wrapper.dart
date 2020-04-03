@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:letsgo/models/user.dart';
 import 'package:letsgo/screens/authenticate/authenticate.dart';
-import 'package:letsgo/screens/home/home.dart';
 import 'package:letsgo/screens/home/homepage.dart';
 import 'package:provider/provider.dart';
 

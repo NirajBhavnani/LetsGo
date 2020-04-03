@@ -33,8 +33,10 @@ dependencies:
   location: ^2.3.5
   rxdart: ^0.23.1
   google_maps_webservice: ^0.0.16
+  google_map_polyline: ^0.2.0+1
   geolocator: ^5.2.0
   http: ^0.12.0+4
+  flutter_google_places: 
 
 dev_dependencies:
   flutter_test:
